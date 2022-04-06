@@ -20,15 +20,10 @@ h1{
     text-align: center;
     background: gray;
     border: 1px solid black;
+    margin: 20px 20px 20px 120px;
     font-size: 20px;
     height: 40px;
     width: 220px;
-}
-#button1{
-    margin: 20px 20px 20px 120px;
-}
-#button2{
-    margin: 20px 20px 20px 20px;
 }
 #morseText{
     height:200px;
